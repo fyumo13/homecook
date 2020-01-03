@@ -1,0 +1,25 @@
+{
+  "name": "homecook",
+  "version": "1.0.0",
+  "description": "Web app that allows users to search for food recipes using Edamam API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web app",
+    "bootstrap"
+  ],
+  "author": "Fredrik Yumo",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": ">=4.3.1",
+    "jquery": ">=1.12.4",
+    "popper.js": "^1.14.3",
+    "lodash": ">=4.17.13",
+    "lodash.template": ">=4.5.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.2"
+  }
+}
